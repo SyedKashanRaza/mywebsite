@@ -1,0 +1,248 @@
+@media (max-width: 768px){
+    .mid{
+        height: 1080px;
+        background-color: yellow;
+    }
+
+    .map2{
+        width: 200px;
+        font-size: xx-small;
+    }
+}
+
+body{
+    background-image: linear-gradient(white,grey,white);
+}
+
+.navbar-expand-lg{
+    background-color: #3f2437 !important;
+    color: black !important;
+}
+
+.nav-link{
+    color: gold !important;
+    font-size: large;
+}
+
+.logo{
+    width: 130px;
+    height: 90px;
+}
+
+.fa-shopping-cart,.fa-user-circle-o{
+    font-size: 45px !important;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: gold;
+}
+
+.dropdown-menu{
+    background-color: #3f2437;
+}
+
+.dropdown-item{
+    color: gold !important;
+}
+
+.dropdown-item:hover,.nav-item:hover{
+    background-color: black;
+    font-weight: bold;
+    color: yellow;
+}
+
+.nav-item{
+    border-radius: 20px;
+}
+
+.bb,.us,.deals{
+    font-size: 100px;
+    font-weight: bold;
+    font-family: Brush Script Std;
+    text-align: center;
+    margin-top: 30px;
+    background-color: orangered;
+}
+
+.div1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.card{
+    margin-left: 80px !important;
+    margin-right: 80px !important;
+    margin-top: 40px !important;
+}
+
+.card-body{
+    text-align: center;
+    
+}
+
+.d-block{
+    height: 700px;
+}
+
+.badge {
+    background-color: red;
+}
+
+.form1{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.card-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+}
+
+.mid{
+    height: 360px;
+    background-color: #3f2437;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.one{
+    width: 400px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.pic{
+    height: 200px;
+    width: 180px;
+}
+
+.head{
+    color: orangered;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Algerian;
+}
+
+.brief{
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    font-family: Century Gothic;
+}
+
+.slide1{
+    width: 1000px;
+}
+
+.mainslider{
+    display: flex;
+    flex-direction: row;
+    background-image: linear-gradient(yellow,orangered);
+}
+
+.content{
+    line-height: 1.5em;
+    font-style: italic;
+    color: #3f2437;
+    
+}
+
+.content1{
+    font-family: century gothic;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: 48px;
+    color: orangered;
+    
+}
+
+.pic1{
+    width: 80px;
+    height: 70px;
+    display: inline-block;
+}
+
+.extra{
+    font-size: 25px !important;
+    font-weight: bold;
+}
+
+.map{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+
+.map1{
+    text-align: center;
+    width: 600px;
+}
+
+.container-sm{
+    padding: 30px;
+    font-size: xx-large;
+
+    font-weight: bold;
+}
+
+.about{
+    font-size: x-large;
+    line-height: 2em;
+    font-style: italic;
+    /* width: 700px;
+    margin-left: 300px; */
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.page-footer{
+    margin-top: 20px;
+    background-color: #3f2437;
+    color: white;
+}
+
+.fa-facebook-official,.fa-twitter,.fa-google,.fa-instagram{
+    font-size: 50px !important;
+    padding: 10px;
+}
+
+.fa-home,.fa-envelope,.fa-mobile{
+    font-size: 25px !important;
+}
+
+.font-weight-bold{
+    color: yellow !important;
+    font-size: x-large;
+}
+
+.footer-copyright{
+    background-color: #585352;
+}
+
+.list{
+    color: white !important;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: large;
+}
+
+.footpic{
+    height: 150px;
+    width: 200px;
+    margin-top: -20px;
+    margin-left: -30px;
+}
